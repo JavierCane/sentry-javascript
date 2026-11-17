@@ -1,0 +1,21 @@
+packages/profiling-node/src/utils.ts
+  s_0bf18816084029::t_78612c3f52fec7 12-19,174
+packages/profiling-node/test/envelope-safe-timestamp.test.ts
+  s_0bf18816084029::t_13557ef33a3425 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9dfcf67101832716113bd579dacae7a348e258e7",
+  "prompts": {},
+  "sessions": {
+    "s_0bf18816084029": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e398-2375-7783-9729-eb5fecdd131d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Javier Ferrer González <986235+JavierCane@users.noreply.github.com>"
+    }
+  }
+}
